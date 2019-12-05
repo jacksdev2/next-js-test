@@ -9840,13 +9840,7 @@ var Index = function Index() {
       lineNumber: 17
     },
     __self: this
-  }, __jsx("a", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, "More")));
+  }));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

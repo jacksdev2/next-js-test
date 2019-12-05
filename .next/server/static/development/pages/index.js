@@ -1904,13 +1904,7 @@ const Index = () => __jsx("div", {
     lineNumber: 17
   },
   __self: undefined
-}, __jsx("a", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 18
-  },
-  __self: undefined
-}, "More")));
+}));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
