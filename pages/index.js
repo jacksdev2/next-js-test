@@ -1,21 +1,14 @@
 
-import Link from 'next/link'
+import LinkCustom from '../components/LinkCustom'
 
 
 const Index = () => (
     <div>
         <h1>Home page</h1>
-        <Link href='/schedule'>
-            <a>Schedule</a>
-        </Link>
-        <Link href='/instructors'>
-            <a>Instructors</a>
-        </Link>
-        <Link href='/contact'>
-            <a>Contact</a>
-        </Link>
-        <Link href='/more'>more
-        </Link>
+        <LinkCustom href='/index'>
+            <a className="link" >Index</a>
+        </LinkCustom>
+
     </div>  
 )
 
