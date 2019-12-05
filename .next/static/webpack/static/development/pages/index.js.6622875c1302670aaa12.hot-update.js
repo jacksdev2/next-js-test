@@ -44,7 +44,46 @@ var Index = function Index() {
       lineNumber: 9
     },
     __self: this
-  }, "Schedule")));
+  }, "Schedule")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/instructors",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Instructors")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/contact",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "Contact")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/more",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, "More")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
@@ -52,4 +91,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.0c59c9da42dc00d99ec3.hot-update.js.map
+//# sourceMappingURL=index.js.6622875c1302670aaa12.hot-update.js.map
