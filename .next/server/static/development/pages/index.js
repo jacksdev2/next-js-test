@@ -128,7 +128,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     href: href,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 15
     },
     __self: undefined
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(children, {
@@ -1902,21 +1902,77 @@ const Index = () => __jsx("div", {
     lineNumber: 7
   },
   __self: undefined
-}, "Home page"), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
-  href: "/index",
+}, "About"), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  href: "/about",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
   },
   __self: undefined
 }, __jsx("a", {
-  className: "link",
+  className: "nav_link",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9
   },
   __self: undefined
-}, "Idetesx")));
+}, "About")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  href: "/class",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 11
+  },
+  __self: undefined
+}, __jsx("a", {
+  className: "nav_link",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12
+  },
+  __self: undefined
+}, "Class Schedule")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  href: "/social",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 14
+  },
+  __self: undefined
+}, __jsx("a", {
+  className: "nav_link",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15
+  },
+  __self: undefined
+}, "Social/Photos")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  href: "/instructors",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17
+  },
+  __self: undefined
+}, __jsx("a", {
+  className: "nav_link",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18
+  },
+  __self: undefined
+}, "Instructors")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  href: "/contact",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 20
+  },
+  __self: undefined
+}, __jsx("a", {
+  className: "nav_link",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21
+  },
+  __self: undefined
+}, "Contact")));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 

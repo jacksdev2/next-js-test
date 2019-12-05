@@ -34,7 +34,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     href: href,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 15
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(children, {
@@ -9837,21 +9837,77 @@ var Index = function Index() {
       lineNumber: 7
     },
     __self: this
-  }, "Home page"), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    href: "/index",
+  }, "About"), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/about",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
   }, __jsx("a", {
-    className: "link",
+    className: "nav_link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
-  }, "Idetesx")));
+  }, "About")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/class",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "nav_link",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Class Schedule")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/social",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "nav_link",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "Social/Photos")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/instructors",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "nav_link",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, "Instructors")), __jsx(_components_LinkCustom__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/contact",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "nav_link",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, "Contact")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
