@@ -6,7 +6,7 @@ const Index = () => (
     <div>
         <h1>Home page</h1>
         <LinkCustom href='/index'>
-            <a className="link" >Index</a>
+            <a className="link" >Idex</a>
         </LinkCustom>
 
     </div>  
