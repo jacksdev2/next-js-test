@@ -1,0 +1,31 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static\\8bFdoyhwH9Kxr84vAKtnK\\pages\\_app.js": 4,
+      "static\\8bFdoyhwH9Kxr84vAKtnK\\pages\\_error.js": 5,
+      "static\\8bFdoyhwH9Kxr84vAKtnK\\pages\\blog.js": 6,
+      "static\\8bFdoyhwH9Kxr84vAKtnK\\pages\\index.js": 7,
+      "static\\8bFdoyhwH9Kxr84vAKtnK\\pages\\schedule.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
